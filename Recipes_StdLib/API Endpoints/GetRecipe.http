@@ -1,0 +1,2 @@
+GET http://localhost:8000/recipes/2aPgJULzfao
+Accept: application/json

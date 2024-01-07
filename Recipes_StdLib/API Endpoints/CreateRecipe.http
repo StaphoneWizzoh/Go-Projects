@@ -1,0 +1,15 @@
+POST http://localhost:8000/recipes/
+Content-Type: application/json
+
+{
+  "name": "Smochaha",
+  "ingredients": [
+    {
+      "name": "Smokie"
+    },{
+      "name": "Chapati"
+    },{
+      "name":"Kachumbari"
+    }
+  ]
+}

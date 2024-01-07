@@ -1,0 +1,17 @@
+PUT http://localhost:8000/recipes/2aPgJULzfao
+Accept: application/json
+
+{
+  "name": "Smocha",
+  "ingredients": [
+    {
+      "name": "Smokie"
+    },{
+      "name": "Chapati"
+    },{
+      "name":"Kachumbari"
+    },{
+      "name":"Kapilipili"
+    }
+  ]
+}
